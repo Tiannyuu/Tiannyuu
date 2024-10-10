@@ -1,0 +1,32 @@
+Data Analysis Project
+Description
+This Python project performs in-depth numerical and text analysis through various functions. It can calculate statistical measures, identify textual patterns, and produce both terminal and file outputs based on user-provided data.
+
+Installation
+Clone the repository to your local machine.
+Ensure Python 3.6+ is installed.
+Install required packages: pip install -r requirements.txt.
+Usage
+Run the program by executing:
+
+
+python analysis_program.py
+You will be prompted to enter the names of the input and output files when running the script.
+
+Features
+Statistical Calculations: Max, min, total, median, mode, variance, and standard deviation.
+Text Analysis: Identifies the longest word and performs frequency analysis.
+Output Handling: Outputs results to both the console and a specified file.
+Contributing
+Contributions are welcome. Please fork the project, create a new branch for your contribution, and submit a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Authors
+Your Name
+Acknowledgments
+Thanks to contributors and mentors who have offered guidance and support.
+Contact
+For support or queries, reach out to your-email@example.com.
+
